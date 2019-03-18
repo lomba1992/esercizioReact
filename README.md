@@ -1,2 +1,0 @@
-# esercizioReact
-Created with CodeSandbox
